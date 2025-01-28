@@ -1,3 +1,3 @@
-git add requirements.txt
-git commit -m "Añadiendo requirements.txt con python-dotenv"
-git push origin main
+streamlit
+python-dotenv
+pandas
